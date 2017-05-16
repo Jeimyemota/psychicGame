@@ -1,0 +1,15 @@
+.jumbotron {
+	text-align: center;
+	font-family: "times", Times New Roman, "Georgia";
+
+}
+#game {
+	text-align: left;
+	font-size: 25px;
+	font-family: "times", Times New Roman, "Georgia";
+
+}
+
+body {
+	font-family: "times", Times New Roman, "Georgia";
+}
