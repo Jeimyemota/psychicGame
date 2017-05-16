@@ -1,15 +1,23 @@
 .jumbotron {
 	text-align: center;
 	font-family: "times", Times New Roman, "Georgia";
+	background: url(../images/Nebula.png);
+
+
 
 }
-#game {
+#game p {
 	text-align: left;
 	font-size: 25px;
 	font-family: "times", Times New Roman, "Georgia";
+	color: black;
+
 
 }
 
 body {
 	font-family: "times", Times New Roman, "Georgia";
+}
+#title, p {
+	color: white;
 }
